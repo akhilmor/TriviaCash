@@ -1,4 +1,4 @@
-# TriviaCash 🎮💰
+# TriviaCash 
 
 A modern, real-time multiplayer trivia game built with React Native and Expo. Compete against friends or test your knowledge solo while managing your virtual wallet and climbing the leaderboards.
 
